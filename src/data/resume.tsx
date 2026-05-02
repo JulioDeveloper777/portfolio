@@ -116,6 +116,14 @@ export const DATA = {
   ],
   education: [
     {
+      school: "Uniube",
+      href: "https://uniube.br/",
+      degree: "Análise e Desenvolvimento de Sistemas",
+      logoUrl: "uniube.jpg",
+      start: "2026",
+      end: "Cursando",
+    },
+    {
       school: "B7 Web",
       href: "https://lp.b7web.com.br/",
       degree: "Node.JS, Banco de Dados, Docker, Git",
