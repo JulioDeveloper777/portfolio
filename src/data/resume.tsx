@@ -120,8 +120,8 @@ export const DATA = {
       href: "https://uniube.br/",
       degree: "Análise e Desenvolvimento de Sistemas",
       logoUrl: "uniube.jpg",
-      start: "",
-      end: "Cursando",
+      start: "Cursando",
+      end: "",
     },
     {
       school: "B7 Web",
